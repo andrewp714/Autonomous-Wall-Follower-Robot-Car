@@ -13,7 +13,7 @@ This project involves designing and programming an autonomous robot car to navig
 ![Schematic](https://github.com/user-attachments/assets/1ea1ff8c-1daa-464a-8eae-2fee81a82e1c)
 
 ## Demo Video
-Straight Wall Follower: https://youtube.com/shorts/F17Lw64sHN0?feature=share
+Straight Wall Follower: https://youtube.com/shorts/F17Lw64sHN0?feature=share  
 Power Wall Follower:  https://youtube.com/shorts/vJIUpQGYRWo?feature=share
 
 ## Challenges
